@@ -1,0 +1,97 @@
+/* Spotify-Like Theme */
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: #121212;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+.container {
+  width: 100%;
+  min-height: 100vh;
+  padding: 30px;
+  box-sizing: border-box;
+  text-align: center;
+  background: linear-gradient(180deg, #121212 0%, #1db954 200%);
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  color: #1db954;
+}
+
+select, button {
+  background-color: #1db954;
+  border: none;
+  color: white;
+  padding: 10px 15px;
+  margin: 10px;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+select:hover, button:hover {
+  background-color: #1ed760;
+}
+
+#playlist {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.song {
+  background: #1e1e1e;
+  width: 60%;
+  margin: 8px 0;
+  padding: 12px 18px;
+  border-radius: 10px;
+  text-align: left;
+  transition: 0.3s;
+}
+
+.song:hover {
+  background: #2a2a2a;
+}
+
+.song a {
+  color: #1db954;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.song a:hover {
+  text-decoration: underline;
+}
+
+#player {
+  margin-top: 30px;
+  border-radius: 12px;
+}
+
+/* Theme toggle button */
+#toggle-theme {
+  position: fixed;
+  top: 15px;
+  right: 20px;
+  background: #1db954;
+  border: none;
+  border-radius: 50%;
+  color: white;
+  font-size: 22px;
+  padding: 10px 12px;
+  cursor: pointer;
+  transition: 0.3s;
+  z-index: 1000;
+}
+
+#toggle-theme:hover {
+  background: #1ed760;
+}

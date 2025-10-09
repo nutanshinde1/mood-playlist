@@ -1,0 +1,120 @@
+{
+  "happy": [
+    { "title": "Happy - Pharrell Williams", "link": "https://www.youtube.com/watch?v=ZbZSe6N_BXs" },
+    { "title": "On Top of the World - Imagine Dragons", "link": "https://www.youtube.com/watch?v=w5tWYmIOWGk" },
+    { "title": "Can't Stop the Feeling - Justin Timberlake", "link": "https://www.youtube.com/watch?v=ru0K8uYEZWw" },
+    { "title": "Good Life - OneRepublic", "link": "https://www.youtube.com/watch?v=jZhQOvvV45w" },
+    { "title": "Walking on Sunshine - Katrina & The Waves", "link": "https://www.youtube.com/watch?v=iPUmE-tne5U" },
+    { "title": "Best Day Of My Life - American Authors", "link": "https://www.youtube.com/watch?v=Y66j_BUCBMY" },
+    { "title": "Shake It Off - Taylor Swift", "link": "https://www.youtube.com/watch?v=nfWlot6h_JM" },
+    { "title": "Sugar - Maroon 5", "link": "https://www.youtube.com/watch?v=09R8_2nJtjg" },
+    { "title": "Count on Me - Bruno Mars", "link": "https://www.youtube.com/watch?v=Yc7-krRX8uA" },
+    { "title": "Viva La Vida - Coldplay", "link": "https://www.youtube.com/watch?v=dvgZkm1xWPE" },
+    { "title": "Firework - Katy Perry", "link": "https://www.youtube.com/watch?v=QGJuMBdaqIw" },
+    { "title": "Dance Monkey - Tones and I", "link": "https://www.youtube.com/watch?v=q0hyYWKXF0Q" }
+  ],
+
+  "sad": [
+    { "title": "Someone Like You - Adele", "link": "https://www.youtube.com/watch?v=hLQl3WQQoQ0" },
+    { "title": "Let Her Go - Passenger", "link": "https://www.youtube.com/watch?v=RBumgq5yVrA" },
+    { "title": "Fix You - Coldplay", "link": "https://www.youtube.com/watch?v=k4V3Mo61fJM" },
+    { "title": "Stay With Me - Sam Smith", "link": "https://www.youtube.com/watch?v=pB-5XG-DbAA" },
+    { "title": "Hurt - Christina Aguilera", "link": "https://www.youtube.com/watch?v=GzmS3eeC9eY" },
+    { "title": "Say Something - A Great Big World", "link": "https://www.youtube.com/watch?v=-2U0Ivkn2Ds" },
+    { "title": "When I Was Your Man - Bruno Mars", "link": "https://www.youtube.com/watch?v=ekzHIouo8Q4" },
+    { "title": "All I Want - Kodaline", "link": "https://www.youtube.com/watch?v=mtf7hC17IBM" },
+    { "title": "Let Me Down Slowly - Alec Benjamin", "link": "https://www.youtube.com/watch?v=50VNCymT-Cs" },
+    { "title": "Too Good at Goodbyes - Sam Smith", "link": "https://www.youtube.com/watch?v=J_ub7Etch2U" }
+  ],
+
+  "energetic": [
+    { "title": "Eye of the Tiger - Survivor", "link": "https://www.youtube.com/watch?v=btPJPFnesV4" },
+    { "title": "Stronger - Kanye West", "link": "https://www.youtube.com/watch?v=PsO6ZnUZI0g" },
+    { "title": "Don't Stop Me Now - Queen", "link": "https://www.youtube.com/watch?v=HgzGwKwLmgM" },
+    { "title": "Uptown Funk - Mark Ronson ft. Bruno Mars", "link": "https://www.youtube.com/watch?v=OPf0YbXqDm0" },
+    { "title": "Thunder - Imagine Dragons", "link": "https://www.youtube.com/watch?v=fKopy74weus" },
+    { "title": "Believer - Imagine Dragons", "link": "https://www.youtube.com/watch?v=7wtfhZwyrcc" },
+    { "title": "Levitating - Dua Lipa", "link": "https://www.youtube.com/watch?v=TUVcZfQe-Kw" },
+    { "title": "Can’t Hold Us - Macklemore", "link": "https://www.youtube.com/watch?v=2zNSgSzhBfM" },
+    { "title": "Dance The Night - Dua Lipa", "link": "https://www.youtube.com/watch?v=OiC1rgCPmUQ" },
+    { "title": "Wake Me Up - Avicii", "link": "https://www.youtube.com/watch?v=IcrbM1l_BoI" }
+  ],
+
+  "relaxed": [
+    { "title": "Weightless - Marconi Union", "link": "https://www.youtube.com/watch?v=UfcAVejslrU" },
+    { "title": "Lovely Day - Bill Withers", "link": "https://www.youtube.com/watch?v=bEeaS6fuUoA" },
+    { "title": "Better Together - Jack Johnson", "link": "https://www.youtube.com/watch?v=u57d4_b_YgI" },
+    { "title": "Banana Pancakes - Jack Johnson", "link": "https://www.youtube.com/watch?v=6GraaV0Vd5Q" },
+    { "title": "Clair de Lune - Debussy", "link": "https://www.youtube.com/watch?v=CvFH_6DNRCY" },
+    { "title": "River Flows in You - Yiruma", "link": "https://www.youtube.com/watch?v=7maJOI3QMu0" },
+    { "title": "Bloom - The Paper Kites", "link": "https://www.youtube.com/watch?v=8inJtTG_DuU" },
+    { "title": "Let’s Stay Together - Al Green", "link": "https://www.youtube.com/watch?v=COiIC3A0ROM" },
+    { "title": "Come Away With Me - Norah Jones", "link": "https://www.youtube.com/watch?v=lbjZPFBD6JU" },
+    { "title": "Sunset Lover - Petit Biscuit", "link": "https://www.youtube.com/watch?v=GRz7xN6p0bY" }
+  ],
+
+  "bollywood": [
+    { "title": "Kesariya - Brahmāstra", "link": "https://www.youtube.com/watch?v=BddP6PYo2gs" },
+    { "title": "Apna Bana Le - Bhediya", "link": "https://www.youtube.com/watch?v=O9Cj2XlxGwk" },
+    { "title": "Tum Se Hi - Jab We Met", "link": "https://www.youtube.com/watch?v=Z6f_Es3_-zM" },
+    { "title": "Raatan Lambiyan - Shershaah", "link": "https://www.youtube.com/watch?v=gvyUuxdRdR4" },
+    { "title": "Tera Ban Jaunga - Kabir Singh", "link": "https://www.youtube.com/watch?v=BHkGxFjWnx8" },
+    { "title": "Tera Hone Laga Hoon - Ajab Prem Ki Ghazab Kahani", "link": "https://www.youtube.com/watch?v=xZzEzDkeHzI" },
+    { "title": "Pee Loon - Once Upon a Time in Mumbaai", "link": "https://www.youtube.com/watch?v=qEvIioz6sug" },
+    { "title": "Gallan Goodiyan - Dil Dhadakne Do", "link": "https://www.youtube.com/watch?v=H07zYvkNYL8" },
+    { "title": "Subhanallah - Yeh Jawaani Hai Deewani", "link": "https://www.youtube.com/watch?v=P8PWN1OmZOA" },
+    { "title": "Tum Hi Ho - Aashiqui 2", "link": "https://www.youtube.com/watch?v=Umqb9KENgmk" }
+  ],
+
+  "marathi": [
+    { "title": "Mann Udhaan Varyache - Agga Bai Arechya", "link": "https://www.youtube.com/watch?v=1_LQvDJuJb8" },
+    { "title": "Hi Chaal Turu Turu - Timepass 2", "link": "https://www.youtube.com/watch?v=ZP4jhy7fZqg" },
+    { "title": "Jeev Rangla - Honar Sun Me Hya Gharchi", "link": "https://www.youtube.com/watch?v=JxkNf6F4Q9U" },
+    { "title": "Zingaat - Sairat", "link": "https://www.youtube.com/watch?v=4m1EFMoRFvY" },
+    { "title": "Sairat Zaala Ji - Sairat", "link": "https://www.youtube.com/watch?v=4m1EFMoRFvY" },
+    { "title": "Tik Tik Vajate Dokyat - Duniyadari", "link": "https://www.youtube.com/watch?v=yD0x1RmwOaA" },
+    { "title": "Wajle Ki Bara - Natarang", "link": "https://www.youtube.com/watch?v=biqwbB8ZDoY" },
+    { "title": "Kadhi Tu - Timepass", "link": "https://www.youtube.com/watch?v=HEa_9vlmG1M" },
+    { "title": "Yad Lagla - Sairat", "link": "https://www.youtube.com/watch?v=4m1EFMoRFvY" },
+    { "title": "Mala Ved Lagale Premache - Timepass 2", "link": "https://www.youtube.com/watch?v=ohfCFiFqk6A" }
+  ],
+
+  "navratri": [
+    { "title": "Dholi Taro Dhol Baaje - Hum Dil De Chuke Sanam", "link": "https://www.youtube.com/watch?v=Zp18wO6shDg" },
+    { "title": "Nagada Sang Dhol - Goliyon Ki Raasleela Ram-Leela", "link": "https://www.youtube.com/watch?v=H18ER3VCJY0" },
+    { "title": "Odhani - Made in China", "link": "https://www.youtube.com/watch?v=qfFae6t5w4s" },
+    { "title": "Shubharambh - Kai Po Che", "link": "https://www.youtube.com/watch?v=GOZIrvHr7pk" },
+    { "title": "Radha Kaise Na Jale - Lagaan", "link": "https://www.youtube.com/watch?v=OZ9sK5P8Bds" },
+    { "title": "Kamariya - Mitron", "link": "https://www.youtube.com/watch?v=yaqFYtuK4Kc" },
+    { "title": "Chogada - Loveyatri", "link": "https://www.youtube.com/watch?v=9mPDViJFZ9Y" },
+    { "title": "Udi Udi Jaye - Raees", "link": "https://www.youtube.com/watch?v=YxWlaYCA8MU" },
+    { "title": "Dhol Baaje - Ek Paheli Leela", "link": "https://www.youtube.com/watch?v=1TD_d6gFzVw" },
+    { "title": "Kamariya Hila Rahi Hai - Pawan Singh", "link": "https://www.youtube.com/watch?v=Z8i9jJg-s44" }
+  ],
+
+  "diwali": [
+    { "title": "Aaj Ki Party - Bajrangi Bhaijaan", "link": "https://www.youtube.com/watch?v=QuoKNZjr8_U" },
+    { "title": "Gallan Goodiyan - Dil Dhadakne Do", "link": "https://www.youtube.com/watch?v=H07zYvkNYL8" },
+    { "title": "Swag Se Swagat - Tiger Zinda Hai", "link": "https://www.youtube.com/watch?v=xjDjIWPwcPU" },
+    { "title": "Nashe Si Chadh Gayi - Befikre", "link": "https://www.youtube.com/watch?v=BV-WEb2oxLk" },
+    { "title": "Kala Chashma - Baar Baar Dekho", "link": "https://www.youtube.com/watch?v=k4yXQkG2s1E" },
+    { "title": "Bom Diggy Diggy - Sonu Ke Titu Ki Sweety", "link": "https://www.youtube.com/watch?v=4NZhwMZUlS4" },
+    { "title": "Kar Gayi Chull - Kapoor & Sons", "link": "https://www.youtube.com/watch?v=9CzcOcBb_ms" },
+    { "title": "Abhi Toh Party Shuru Hui Hai - Khoobsurat", "link": "https://www.youtube.com/watch?v=ltp6S5ebM40" },
+    { "title": "London Thumakda - Queen", "link": "https://www.youtube.com/watch?v=UDbmGApMCFw" },
+    { "title": "The Disco Song - Student of the Year", "link": "https://www.youtube.com/watch?v=Rr8ljRgcJNM" }
+  ],
+
+  "devotional": [
+    { "title": "Shree Hanuman Chalisa - Hariharan", "link": "https://www.youtube.com/watch?v=6OT43pvUyfY" },
+    { "title": "Om Jai Jagdish Hare - Aarti", "link": "https://www.youtube.com/watch?v=fxC_oALoNfU" },
+    { "title": "Achyutam Keshavam - Anuradha Paudwal", "link": "https://www.youtube.com/watch?v=ss0aS9YTrdg" },
+    { "title": "Ganesh Aarti - Sukhkarta Dukhharta", "link": "https://www.youtube.com/watch?v=6rFqcHuK8Xk" },
+    { "title": "Gayatri Mantra - 108 Times", "link": "https://www.youtube.com/watch?v=Bbz6Uy8LFmU" },
+    { "title": "Om Namah Shivaya Chanting", "link": "https://www.youtube.com/watch?v=OJvRkq1J_E8" },
+    { "title": "Raghupati Raghav Raja Ram", "link": "https://www.youtube.com/watch?v=dvStK1-Bn2Y" },
+    { "title": "Jai Ambe Gauri", "link": "https://www.youtube.com/watch?v=4ePG0r2-CqA" },
+    { "title": "Mahalaxmi Aarti", "link": "https://www.youtube.com/watch?v=SCdg2HgkTxI" },
+    { "title": "Shiv Tandav Stotram - Shankar Mahadevan", "link": "https://www.youtube.com/watch?v=sn1H3uB7Bi4" }
+  ]
+}

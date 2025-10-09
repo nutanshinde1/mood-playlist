@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mood & Festival Music Playlist</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <button id="toggle-theme">🌙</button>
+
+  <div class="container">
+    <h1>🎧 Mood & Festival Music Playlist</h1>
+
+    <label for="mood">Select your mood/festival:</label>
+    <select id="mood"></select>
+    <button onclick="getPlaylist()">Generate Playlist</button>
+    <button onclick="playAll()">▶️ Play All</button>
+
+    <div id="playlist"></div>
+    <iframe id="player" width="560" height="315" style="display:none;" allowfullscreen></iframe>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
