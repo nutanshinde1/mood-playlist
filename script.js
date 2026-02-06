@@ -1,5 +1,5 @@
 // --- Import Playlist Data ---
-const moodData = {
+const moodData = { 
   happy: [
     { title: "Happy - Pharrell Williams", link: "https://www.youtube.com/watch?v=ZbZSe6N_BXs" },
     { title: "Can't Stop the Feeling - Justin Timberlake", link: "https://www.youtube.com/watch?v=ru0K8uYEZWw" },
